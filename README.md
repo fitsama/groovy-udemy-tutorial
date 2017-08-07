@@ -1,1 +1,2 @@
-# groovy-udemy-tutorial
+# apache-groovy-course
+Apache Groovy Course
